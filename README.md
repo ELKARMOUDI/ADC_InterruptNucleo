@@ -12,6 +12,7 @@ Read potentiometer values using ADC1 with conversion complete interrupts.
 - **PA0 Analog Input** for potentiometer
 - **High Accuracy**: 480-cycle sample time
 - **64MHz System Clock** (HSI-based PLL)
+- **Non-blocking** operation
 
 
 ## Hardware Setup
